@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: dacda5518276d9c45965b26b4f1df3b0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CD_box:baban
+    100004: CD_box:back
+    100006: CD_box:cd
+    100008: CD_box:group3
+    100010: CD_box:kuan
+    100012: CD_box:kuan_line
+    100014: CD_box:mainback
+    100016: CD_box:pCube301
+    100018: CD_box:pCube303
+    100020: CD_box:pCube305
+    100022: CD_box:pCube307
+    100024: CD_box:pCube309
+    100026: CD_box:pCube311
+    100028: CD_box:polySurface19
+    100030: CD_box:polySurface20
+    100032: CD_box:polySurface22
+    100034: CD_box:polySurface23
+    100036: CD_box:pPipe1
+    400000: //RootNode
+    400002: CD_box:baban
+    400004: CD_box:back
+    400006: CD_box:cd
+    400008: CD_box:group3
+    400010: CD_box:kuan
+    400012: CD_box:kuan_line
+    400014: CD_box:mainback
+    400016: CD_box:pCube301
+    400018: CD_box:pCube303
+    400020: CD_box:pCube305
+    400022: CD_box:pCube307
+    400024: CD_box:pCube309
+    400026: CD_box:pCube311
+    400028: CD_box:polySurface19
+    400030: CD_box:polySurface20
+    400032: CD_box:polySurface22
+    400034: CD_box:polySurface23
+    400036: CD_box:pPipe1
+    2100000: cd1
+    2300000: CD_box:baban
+    2300002: CD_box:back
+    2300004: CD_box:cd
+    2300006: CD_box:kuan
+    2300008: CD_box:pCube301
+    2300010: CD_box:pCube303
+    2300012: CD_box:pCube305
+    2300014: CD_box:pCube307
+    2300016: CD_box:pCube309
+    2300018: CD_box:pCube311
+    2300020: CD_box:polySurface19
+    2300022: CD_box:polySurface20
+    2300024: CD_box:polySurface22
+    2300026: CD_box:polySurface23
+    2300028: CD_box:pPipe1
+    3300000: CD_box:baban
+    3300002: CD_box:back
+    3300004: CD_box:cd
+    3300006: CD_box:kuan
+    3300008: CD_box:pCube301
+    3300010: CD_box:pCube303
+    3300012: CD_box:pCube305
+    3300014: CD_box:pCube307
+    3300016: CD_box:pCube309
+    3300018: CD_box:pCube311
+    3300020: CD_box:polySurface19
+    3300022: CD_box:polySurface20
+    3300024: CD_box:polySurface22
+    3300026: CD_box:polySurface23
+    3300028: CD_box:pPipe1
+    4300000: CD_box:kuan
+    4300002: CD_box:baban
+    4300004: CD_box:pPipe1
+    4300006: CD_box:pCube301
+    4300008: CD_box:pCube303
+    4300010: CD_box:pCube305
+    4300012: CD_box:pCube307
+    4300014: CD_box:pCube309
+    4300016: CD_box:pCube311
+    4300018: CD_box:back
+    4300020: CD_box:polySurface19
+    4300022: CD_box:polySurface20
+    4300024: CD_box:polySurface22
+    4300026: CD_box:polySurface23
+    4300028: CD_box:cd
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
