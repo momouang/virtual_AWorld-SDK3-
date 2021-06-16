@@ -5,6 +5,7 @@ SceneListBegin?
 Assets/scenes/Aworld.unity
 SceneListEnd?
 bad0f5a58d4b55ed1442379677ba2587 VRC.Udon.dll:VRC.Udon.ProgramSources.SerializedUdonProgramAsset
+3614bae5f2ee7232eea55e930d1eb42d VRCSDK3.dll:VRC.SDK3.Components.VRCPickup
 10480eec36be4b6bdd6d8cc2b035dc73 VRCSDK3.dll:VRC.SDK3.Components.VRCSceneDescriptor
 51b7e090b99b560b762f54d192de261e VRCSDK3.dll:VRC.SDK3.Components.VRCSpatialAudioSource
 09fa10d430b92c093495440cdc8f99dc VRCSDK3.dll:VRC.SDK3.Video.Components.VRCUnityVideoPlayer
